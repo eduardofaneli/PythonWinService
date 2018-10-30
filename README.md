@@ -5,5 +5,5 @@
     1. Caso a DLL não esteja na pasta citada acima verifique na seguinte pasta "..\Lib\site-packages\pywin32_system32", procure a DLL e faça uma cópia para a pasta         "..\Lib\site-packages\win32";
 
 2. Instalação 
-    2. Para instalar o Service entre com o seguinte comando no console: python PythonServiceExamplo.py install;
-    2. Para atualizar o Service entre com o seguinte comando no console: python PythonServiceExamplo.py update;
+    1. Para instalar o Service entre com o seguinte comando no console: python PythonServiceExamplo.py install;
+    1. Para atualizar o Service entre com o seguinte comando no console: python PythonServiceExamplo.py update;
